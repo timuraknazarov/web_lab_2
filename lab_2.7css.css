@@ -1,0 +1,44 @@
+*{
+    color: white;
+    margin: 0px;
+}
+
+div{
+    width: 200px;
+    height: 100px;
+}
+.blueviolet{
+    background-color: blueviolet;
+    position:static;
+}
+.darkred{
+    background-color: darkred;
+    position: relative;
+}
+.peru{
+    background-color: peru;
+    position: relative;
+    left: 35px;
+    bottom: 30px;
+}
+.indianred{
+    width: 700px;
+    height: 400px;
+    background-color: indianred;
+    position: relative;
+
+}
+.indigo{
+    background-color: indigo;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    right: 0;
+    bottom: 80px;
+}
+.forestgreen{
+    background-color: forestgreen;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

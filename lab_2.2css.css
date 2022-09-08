@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #EAEAEA;
+    padding-bottom: 40px;
+}
+span {
+    color: red;
+    font-style: italic;
+}
+.main{
+    font-size: 18.5px;
+    display: flex;
+}
+.leftcol{
+    width: 25%;
+    background-color: #c8fc98; 
+    flex-shrink: 0;
+    height:fit-content;
+}
+.rightcol {
+    width: 200px;
+    background-color: #FDE95E;
+    flex-shrink: 0;
+}
+footer{
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+a{
+    color: yellow;
+}

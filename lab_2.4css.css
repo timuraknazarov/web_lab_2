@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+p{
+    background-color: blue;
+    color: white;
+}
+
+.outer{
+    text-align: center;
+}
+.inner{
+    display: inline-block;
+    text-align: left;
+    max-width: 600px;
+}

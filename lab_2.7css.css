@@ -6,6 +6,7 @@
 div{
     width: 200px;
     height: 100px;
+    z-index: 1;
 }
 .blueviolet{
     background-color: blueviolet;
@@ -38,7 +39,9 @@ div{
 }
 .forestgreen{
     background-color: forestgreen;
+    width: 100px;
     position: fixed;
     bottom: 0;
     right: 0;
+    z-index: 0;
 }

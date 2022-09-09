@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+    color: white;
+}
+
+.outer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.gr{
+    max-width: 600px;
+    background-color: green;
+}
+
+.bl{
+    max-width: 600px;
+    background-color: blue;
+    border: 20px solid blue;
+    padding: 15px;
+}

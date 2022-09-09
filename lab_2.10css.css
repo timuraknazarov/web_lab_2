@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+div{
+    margin: 40px 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    float: left;
+}
+footer{
+    background-color: bisque;
+    width: 100%;
+    clear: left;
+}

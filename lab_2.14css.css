@@ -29,8 +29,12 @@ main{
     flex-direction: column;
 }
 nav{
-    width: 150px;
-    height: 100px;
+    margin: 20px 0;
+    width: 100%;
+    height: auto;
+}
+li{
+    display: inline-block;
 }
 article{
     width: 100%;
